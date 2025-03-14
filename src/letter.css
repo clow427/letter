@@ -1,0 +1,24 @@
+.body-container {
+    background-color: #f6ebeb;
+    padding: 30px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow */
+    width: 125vh;
+
+}
+
+.writing {
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+}
+
+.login-form {
+    background-color: #4b0082; /* Darker purple background */
+    padding: 30px; /* Increased padding */
+    border-radius: 12px; /* More rounded corners */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow */
+    width: 350px; /* Increased width */
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
